@@ -4,9 +4,8 @@ role: Undergraduate student
 avatar_filename: seyedamin_mousavichashmi_face.jpg
 bio: My research interests include Machine learning and Deep learning
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine learning
+  - Deep Learning
 social:
   - icon: envelope
     icon_pack: fas
