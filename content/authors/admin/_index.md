@@ -17,18 +17,20 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
+  - display:
+      header: false
+    icon_pack: fab
+    icon: Github
+    link: https://github.com/SAMousaviCS
 organizations:
   - name: Amirkabir University of Technology
     url: https://aut.ac.ir/en
 education:
   courses:
-    - course: BSc in Computer Engineering
+    - course: BSc in Computer Engineering, 2016 - 2021
       institution: Amirkabir University of Technology
       year: ""
 email: ""
