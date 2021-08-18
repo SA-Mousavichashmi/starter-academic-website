@@ -22,7 +22,7 @@ social:
     link: https://www.linkedin.com/
   - display:
       header: false
-    icon_pack: ai
+    icon_pack: fab
     icon: github
     link: https://github.com/SAMousaviCS
     label: SAMousaviCS
