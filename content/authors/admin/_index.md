@@ -22,9 +22,10 @@ social:
     link: https://www.linkedin.com/
   - display:
       header: false
-    icon_pack: far
+    icon_pack: ai
     icon: github
     link: https://github.com/SAMousaviCS
+    label: SAMousaviCS
 organizations:
   - name: Amirkabir University of Technology
     url: https://aut.ac.ir/en
