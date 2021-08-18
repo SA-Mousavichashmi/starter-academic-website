@@ -1,7 +1,7 @@
 ---
 title: Seyedamin Mousavichashmi
 role: Undergraduate student
-avatar_filename: https://i.ytimg.com/vi/Aym4TtRXLUc/maxresdefault.jpg
+avatar_filename: seyedamin_mousavichashmi_face.jpg
 bio: My research interests include Machine learning and Deep learning
 interests:
   - Artificial Intelligence
@@ -28,15 +28,9 @@ organizations:
     url: https://aut.ac.ir/en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: BSc in Computer Engineering
+      institution: Amirkabir University of Technology
+      year: ""
 email: ""
 superuser: true
 highlight_name: false
